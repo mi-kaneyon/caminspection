@@ -1,0 +1,21 @@
+
+~/.config/autostart/
+
+startupファイルをエディタで開いて、全記載を置き換えてください。
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
+
+
+[Desktop Entry]
+Version=1.0
+Name=Test        
+Comment=Test the terminal running a command inside it
+Exec=gnome-terminal -e "bash -c '/home/nvidia/start.sh;$SHELL'"
+Icon=utilities-terminal
+Terminal=false
+Type=Application
+Categories=Application;
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=start
+Comment[en_US]=ddd
