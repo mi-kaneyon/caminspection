@@ -1,6 +1,5 @@
 # information by Prof.Kunihiko Kaneko 
 # https://www.kkaneko.jp/tools/ubuntu/ubuntu_opencv.html
-
 # install compiler, make, packages, qt5-qmake
 
 sudo apt -y update
