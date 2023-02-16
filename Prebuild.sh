@@ -10,6 +10,6 @@ cp 4.x.zip opencv_contrib.zip
 rm -rf opencv-4.x opencv_contrib-4.x build
 unzip opencv.zip
 unzip opencv_contrib.zip
-mkdir build 
+mkdir build
 cd build
 rm -f CMakeCache.txt
