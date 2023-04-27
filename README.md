@@ -1,5 +1,5 @@
 # 作業手順
-ASK corporation internal repository （社内限定リポジトリです）
+corporation internal repository （社内用ファイルを取り除いた限定リポジトリです）
 
 # 0.イメージ作成準備
 - Balna Etcher
@@ -112,7 +112,7 @@ cd ~/
 sudo chmod +x start.sh
 
 ```
-2. お客様提供の検査ツール(cam_autofocus-main)を/home/kensa/ディレクトリを作り、解凍・コピーします。
+2. 非公開の検査ツール(cam_autofocus-main)を/home/kensa/ディレクトリを作り、解凍・コピーします。
 3. ファイル内にあるREASMEファイルの指示通りに設定を変更します。
 4. startupファイルを任意のエディタで開いて、全記載を書き換えてください。
 
