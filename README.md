@@ -1,5 +1,6 @@
 # 作業手順
 corporation internal repository （社内用ファイルを取り除いた限定リポジトリです）
+- shのスタートアップファイルは任意のものに置き換えてください。
 
 # 0.イメージ作成準備
 - Balna Etcher
