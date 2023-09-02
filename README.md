@@ -2,6 +2,11 @@
 corporation internal repository （社内用ファイルを取り除いた限定リポジトリです）
 - shのスタートアップファイルは任意のものに置き換えてください。
 
+# Setup support tool for Edge comuputer (MIPI/USB) camera
+## camera_setupSupport.py
+- Setup time simple adjust position adjuster.
+- 特にMIPIカメラの水平だしにつかう簡易スクリプト追加しました
+
 # 0.イメージ作成準備
 - Balna Etcher
 - 64GB以上のMicroSDカード
