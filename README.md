@@ -1,3 +1,11 @@
+# camadjust.py 
+- カメラの水平・垂直位置調整スクリプト。
+- level adjust script.
+
+![sample](https://github.com/mi-kaneyon/caminspection/blob/main/adjust3.png)
+
+
+
 # 作業手順
 corporation internal repository （社内用ファイルを取り除いた限定リポジトリです）
 - shのスタートアップファイルは任意のものに置き換えてください。
