@@ -2,6 +2,10 @@
 - カメラの水平・垂直位置調整スクリプト。
 - level adjust script.
 
+```
+python camadjust.py
+```
+
 ![sample](https://github.com/mi-kaneyon/caminspection/blob/main/adjust3.png)
 
 
